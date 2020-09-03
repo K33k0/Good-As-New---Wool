@@ -1,5 +1,8 @@
 {
 	"BP/recipes/01_orange.json": {
 		"data": {}
+	},
+	"BP/recipes/02_magenta.json": {
+		"data": {}
 	}
 }
