@@ -3,7 +3,7 @@
 	"file_type": "recipe",
 	"format_version": 1,
 	"file_uuid": "f2880926_c121_4dcc_a487_f0b321a2993e",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
@@ -35,6 +35,9 @@
 							{
 								"item": "minecraft:wool",
 								"count": 8
+							},
+							{
+								"item": "minecraft:bucket"
 							}
 						]
 					}
@@ -71,6 +74,9 @@
 							{
 								"item": "minecraft:wool",
 								"count": 8
+							},
+							{
+								"item": "minecraft:bucket"
 							}
 						]
 					}
@@ -78,6 +84,38 @@
 				"key": "minecraft:recipe_shaped",
 				"children": [
 					{
+						"open": {
+							"description": {
+								"identifier": "ftw:02_magenta"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"+++",
+								"+-+",
+								"+++"
+							],
+							"key": {
+								"+": {
+									"item": "minecraft:wool",
+									"data": 2
+								},
+								"-": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wool",
+									"count": 8
+								},
+								{
+									"item": "minecraft:bucket"
+								}
+							]
+						},
 						"key": "description",
 						"is_minified": true,
 						"children": {
@@ -127,6 +165,9 @@
 								{
 									"item": "minecraft:wool",
 									"count": 8
+								},
+								{
+									"item": "minecraft:bucket"
 								}
 							]
 						},
@@ -187,6 +228,9 @@
 								{
 									"item": "minecraft:wool",
 									"count": 8
+								},
+								{
+									"item": "minecraft:bucket"
 								}
 							]
 						},
@@ -197,12 +241,30 @@
 									{
 										"item": "minecraft:wool",
 										"count": 8
+									},
+									{
+										"item": "minecraft:bucket"
 									}
 								],
 								"is_minified": true,
 								"children": {
 									"item": "minecraft:wool",
 									"count": 8
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:wool",
+										"count": 8
+									},
+									{
+										"item": "minecraft:bucket"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket"
 								}
 							}
 						]

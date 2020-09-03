@@ -1,9 +1,9 @@
-//bridge-file-version: #1
+//bridge-file-version: #3
 {
 	"format_version": "1.16.0",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "ftw:01_orange"
+			"identifier": "ftw:04_yellow"
 		},
 		"tags": [
 			"crafting_table"
@@ -16,7 +16,7 @@
 		"key": {
 			"+": {
 				"item": "minecraft:wool",
-				"data": 3
+				"data": 4
 			},
 			"-": {
 				"item": "minecraft:bucket",
