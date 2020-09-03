@@ -4,5 +4,8 @@
 	},
 	"BP/recipes/02_magenta.json": {
 		"data": {}
+	},
+	"BP/recipes/03_light_blue.json": {
+		"data": {}
 	}
 }
