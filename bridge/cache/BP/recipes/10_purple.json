@@ -1,0 +1,221 @@
+{
+	"file_path": "C:\\Users\\keewy\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Good As New - Wool\\recipes\\10_purple.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "b218acbb_768b_4a04_b34b_971988885667",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "ftw:10_purple"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"+++",
+							"+-+",
+							"+++"
+						],
+						"key": {
+							"+": {
+								"item": "minecraft:wool",
+								"data": 10
+							},
+							"-": {
+								"item": "minecraft:bucket",
+								"data": 8
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:wool",
+								"count": 8
+							},
+							{
+								"item": "minecraft:bucket"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "ftw:10_purple"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"+++",
+							"+-+",
+							"+++"
+						],
+						"key": {
+							"+": {
+								"item": "minecraft:wool",
+								"data": 10
+							},
+							"-": {
+								"item": "minecraft:bucket",
+								"data": 8
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:wool",
+								"count": 8
+							},
+							{
+								"item": "minecraft:bucket"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "ftw:10_purple"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"+++",
+								"+-+",
+								"+++"
+							],
+							"key": {
+								"+": {
+									"item": "minecraft:wool",
+									"data": 10
+								},
+								"-": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wool",
+									"count": 8
+								},
+								{
+									"item": "minecraft:bucket"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "ftw:10_purple"
+						}
+					},
+					{
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"+++",
+							"+-+",
+							"+++"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "ftw:10_purple"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"+++",
+								"+-+",
+								"+++"
+							],
+							"key": {
+								"+": {
+									"item": "minecraft:wool",
+									"data": 10
+								},
+								"-": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wool",
+									"count": 8
+								},
+								{
+									"item": "minecraft:bucket"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"+": {
+										"item": "minecraft:wool",
+										"data": 10
+									},
+									"-": {
+										"item": "minecraft:bucket",
+										"data": 8
+									}
+								},
+								"key": "+",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:wool",
+									"data": 10
+								}
+							},
+							{
+								"key": "-",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							}
+						]
+					},
+					{
+						"key": "result",
+						"is_minified": true,
+						"children": [
+							{
+								"item": "minecraft:wool",
+								"count": 8
+							},
+							{
+								"item": "minecraft:bucket"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

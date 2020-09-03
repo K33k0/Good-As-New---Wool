@@ -10,5 +10,38 @@
 	},
 	"BP/recipes/04_yellow.json": {
 		"data": {}
+	},
+	"BP/recipes/06_pink.json": {
+		"data": {}
+	},
+	"BP/recipes/07_gray.json": {
+		"data": {}
+	},
+	"BP/recipes/08_light_gray.json": {
+		"data": {}
+	},
+	"BP/recipes/10_purple.json": {
+		"data": {}
+	},
+	"BP/recipes/14_red.json": {
+		"data": {}
+	},
+	"BP/recipes/15_red.json": {
+		"data": {}
+	},
+	"BP/recipes/13_green.json": {
+		"data": {}
+	},
+	"BP/recipes/12_brown.json": {
+		"data": {}
+	},
+	"BP/recipes/11_blue.json": {
+		"data": {}
+	},
+	"BP/recipes/09_cyan.json": {
+		"data": {}
+	},
+	"BP/recipes/05_lime.json": {
+		"data": {}
 	}
 }

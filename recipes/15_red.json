@@ -1,9 +1,36 @@
+//bridge-file-version: #0
 {
-	"format_version": {},
+	"format_version": "1.16.0",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": ""
+			"identifier": "ftw:15_red"
 		},
-		"tags": {}
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"+++",
+			"+-+",
+			"+++"
+		],
+		"key": {
+			"+": {
+				"item": "minecraft:wool",
+				"data": 15
+			},
+			"-": {
+				"item": "minecraft:bucket",
+				"data": 8
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:wool",
+				"count": 8
+			},
+			{
+				"item": "minecraft:bucket"
+			}
+		]
 	}
 }
